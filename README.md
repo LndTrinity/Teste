@@ -23,4 +23,4 @@ $ node calculator.js
 Leonardo Perez Oliveira da Luz
 
 <a href="https://github.com/TonhaoIsrael"><img src="https://github.com/TonhaoIsrael.png" width="45" height="45"></a> &nbsp;
-<p>Israel Silva de Jesus</p>
+Israel Silva de Jesus
