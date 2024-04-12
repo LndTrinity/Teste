@@ -58,8 +58,7 @@ Checklist:
 - [x] Minhas mudanças não geram nenhum motivo de alerta ou possível quebra de outras funcionalidades
 
 # Informações adicionais:
-
-# Contribuídores:
+Contribuídores:
 
 <a href="https://github.com/LndTrinity"><img src="https://github.com/LndTrinity.png" width="45" height="45"></a> &nbsp;
 Leonardo Perez Oliveira da Luz
